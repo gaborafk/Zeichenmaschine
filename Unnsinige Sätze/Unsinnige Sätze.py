@@ -1,7 +1,7 @@
 from random import randint
 
 name = ['Otto', 'Andras', 'Lea', 'Nico', 'Manu', 'Tina']
-verb = ['kocht', 'reitet', 'fickt', 'staunt', 'fällt']
+verb = ['kocht', 'reitet', 'holt', 'staunt', 'fällt']
 ende = ['der Kirche', 'dem Meer', 'Berlin']
 
 
@@ -16,7 +16,7 @@ print(pickV1(name), pickV1(verb), 'in', pickV1(ende), end='.\n')
 
 # Endloser Unsinn!
 name = ['Otto', 'Andras', 'Lea', 'Nico', 'Manu', 'Tina']
-verb = ['kocht', 'reitet', 'fickt', 'staunt', 'fällt']
+verb = ['kocht', 'reitet', 'holt', 'staunt', 'fällt']
 ende = ['der Kirche', 'dem Meer', 'Berlin']
 
 
